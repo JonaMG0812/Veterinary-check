@@ -1,4 +1,4 @@
-Veterinary Check App - made with React
+## Veterinary Check App - made with React
 - Creation and elimination of medical appointments.
 - Saving information in local storage
 
