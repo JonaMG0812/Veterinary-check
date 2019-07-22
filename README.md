@@ -1,3 +1,7 @@
+Veterinary Check App - made with React
+- Creation and elimination of medical appointments.
+- Saving information in local storage
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
